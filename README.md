@@ -10,4 +10,4 @@ The three solutions vecto corp provides are
 * vConvert 2.0
 * vRetain 1.0
 
-For more information about visit ![Vecto Corp](https://durgahegde.github.io/Assignment1/)
+For more information about visit [Vecto Corp](https://durgahegde.github.io/Assignment1/)
